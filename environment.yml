@@ -16,4 +16,7 @@ dependencies:
 - pip:
   - tensorflow
   - tensorflow-probability
+  - dm-sonnet
+  - graph_nets
   - umap-learn
+  - ogb
