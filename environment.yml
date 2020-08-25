@@ -1,0 +1,19 @@
+name: workshop_env
+channels:
+- conda-forge
+dependencies:
+- pip
+- numpy
+- ipython
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
+- tqdm
+- scikit-learn
+- pip:
+  - tensorflow
+  - tensorflow-probability
+  - umap-learn
